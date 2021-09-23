@@ -1,0 +1,20 @@
+
+html, body {
+    height: 100%;
+    width: 100%;
+    color: #2e2e2e;
+}
+
+span{
+    position: absolute;
+}
+
+img{
+    height: 50px;
+    width: 50px;
+}
+
+body{
+    margin: 0px;
+    background-color:#dfcdcd;
+}
